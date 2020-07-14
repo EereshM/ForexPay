@@ -126,7 +126,6 @@
                		<tagNameFormat>v@{project.version}</tagNameFormat>
                		</configuration>
             	</plugin>
-			
 		<plugin>
 			<groupId>org.flywaydb</groupId>
         		<artifactId>flyway-maven-plugin</artifactId>
